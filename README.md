@@ -1,0 +1,1 @@
+# ionic-react-firebase-auth
